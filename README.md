@@ -2,6 +2,9 @@
 
 This is a simple HTML page template for displaying a 404 error message when a page is not found on a website. It provides a user-friendly message along with a custom image and some animations.
 
+# Preview
+[Click here t see how it looks](https://home.cracky-drinks.vodka/error.html)
+
 ## Usage
 
 To use this template, simply copy the HTML code and save it as a `.html` file. You can then open the file in a web browser to see the 404 error page.
